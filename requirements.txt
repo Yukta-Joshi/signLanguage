@@ -109,12 +109,11 @@ streamlit-option-menu==0.3.12
 streamlit-toggle-switch==1.0.2
 streamlit-webrtc==0.47.6
 tenacity==8.2.3
-tensorboard==2.15.2
+tensorboard~=2.15.2
 tensorboard-data-server==0.7.2
-tensorflow==2.15.0
-tensorflow-intel==2.15.0
-tensorflow-io-gcs-filesystem==0.31.0
-termcolor==2.4.0
+tensorflow~=2.15.0
+tensorflow-io-gcs-filesystem~=0.31.0
+termcolor~=2.4.0
 thinc==8.2.3
 toml==0.10.2
 toolz==0.12.1
@@ -132,4 +131,4 @@ weasel==0.3.4
 Werkzeug==3.0.1
 word-tokenizer==0.0.3
 wrapt==1.14.1
-zipp==3.17.0
+zipp~=3.17.0
