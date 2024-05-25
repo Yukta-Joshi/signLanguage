@@ -1,16 +1,15 @@
-import streamlit as st
-import cv2
-from cvzone.ClassificationModule import Classifier
-import mediapipe as mp
-import numpy as np
-import math
-import time
-from streamlit_option_menu import option_menu
-from gtts import gTTS
-import pygame
-import io
-#For sentence forming
-import nltk
-from nltk.tokenize import word_tokenize
-from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
+streamlit
+cv2
+cvzone.ClassificationModule
+mediapipe
+numpy
+math
+time
+streamlit_option_menu
+gtts
+pygame
+io
+nltk
+nltk.tokenize
+nltk.corpus
+nltk.stem
