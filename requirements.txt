@@ -1,15 +1,9 @@
 streamlit
-cv2
-cvzone.ClassificationModule
+opencv-python
+cvzone
 mediapipe
 numpy
-math
-time
 streamlit_option_menu
 gtts
 pygame
-io
 nltk
-nltk.tokenize
-nltk.corpus
-nltk.stem
