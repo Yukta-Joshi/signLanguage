@@ -65,7 +65,7 @@ nltk==3.8.1
 numpy==1.26.2
 oauthlib==3.2.2
 opencv-contrib-python==4.8.1.78
-opencv-python==4.8.1.78
+opencv-python-headless==4.8.1.78
 opt-einsum==3.3.0
 packaging==23.2
 pandas==2.2.1
